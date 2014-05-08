@@ -11,13 +11,11 @@ Facebook : https://www.facebook.com/groups/374536819355606/
 LinkedIn : http://www.linkedin.com/groups/TreasureBoat-7498950  
 
 Main Community GitHub :  
-  https://github.com/TreasureBoat
 
-  current Project : TBFoundation
-
-  https://github.com/rkiddy/TreasureBoat
-  
-  current Project : GUB
+* Project : TBFoundation
+* * https://github.com/TreasureBoat
+* Project : GUB
+* * https://github.com/rkiddy/TreasureBoat
   
 ---
 
