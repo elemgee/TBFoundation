@@ -12,11 +12,8 @@ LinkedIn : http://www.linkedin.com/groups/TreasureBoat-7498950
 
 Main Community GitHub :  
 
-* Project : TBFoundation
-* * https://github.com/TreasureBoat
-* Project : GUB
-* * https://github.com/rkiddy/TreasureBoat
-  
+* Project : [TBFoundation](https://github.com/TreasureBoat)
+* Project : [GUB](https://github.com/rkiddy/TreasureBoat)
 ---
 
 
