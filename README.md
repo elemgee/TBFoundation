@@ -1,44 +1,37 @@
-TreasureBoat v.0.1 - TBFoundation (MileStone 1)
+TreasureBoat GBU v.0.1 (MileStone 1)
 ============
 
-Welcome to TreasureBoat.
+Initial source for a WOString replacement and a WOPageNotFoundException replacement and
+support for building a new JavaWebObjects.framework with the legacy functionality and
+new code and resources added where they exist.
 
-Group Address is : https://groups.google.com/d/forum/treasureboat  
-Mail to send is : list@treasureboat.org  
+All source code in this repository should, until a proper license is determined, contain
+the following:
 
-Google + : https://plus.google.com/u/0/communities/107985167507976376896  
-Facebook : https://www.facebook.com/groups/374536819355606/  
-LinkedIn : http://www.linkedin.com/groups/TreasureBoat-7498950  
+/*
+Disclaimer of Warranties. Author(s) disclaim(s) to the fullest extent authorized by law any and all warranties, whether express or implied,
+including, without limitation, any implied warranties of title, non-infringement, enjoyment, integration, merchantability or fitness for any
+particular purpose.
 
-Main Community GitHub :  
+Until we decide on a license, see above. -rrk
+*/
 
-* Project : [TBFoundation](https://github.com/TreasureBoat)  
-* Project : [GUB](https://github.com/TreasureBoat/GBU)  
+※ for more Information see [Wiki](https://github.com/TreasureBoat/GBU/wiki).
 
-Wiki :
+###Contact
+* [Mailing list](https://groups.google.com/d/forum/treasureboat)
+* [Google +](https://plus.google.com/u/0/communities/107985167507976376896)
+* [Facebook](https://www.facebook.com/groups/374536819355606/)
+* [LinkedIn](http://www.linkedin.com/groups/TreasureBoat-7498950)
+* [GitHub](https://github.com/TreasureBoat)
+* Skype Channel : TreasureBoat
 
-* [Wiki](https://github.com/TreasureBoat/TBFoundation/wiki)
+###To Do - GBU
 
----
+* write a "Contributor's Agreement" and get signed copies before commits occur.
+* get WOLips to use the frameworks in $TB_PROJECT/dist instead of the legacy frameworks.
+  (For example, this would enable getting rid of the HelloBoatExe script.)
+* finish the classes and the resources in the JavaWebObjects framework and then move on to
+  the other frameworks.
+* would it not be nice to have a smarter way to package auxiliary resources than JavaXML.jar?
 
-###To Do - TreasureMap
-
-* create Sample
-
-	* TBFoundation (Step 1)
-	* TBLibrary (Step 1)
-	* TBC ? (Step 5)
-	* TBMigrationLayer (Step 4)
-	* TBApplicationLayer (Step 3)
-	* SampleApplication (Step 2)
-
-
-* create RoadMap MileStone 2
-
-* add WOInjection to TB
-
-* start delegate work
-
----
-
-Last Update : 2014-05-10
